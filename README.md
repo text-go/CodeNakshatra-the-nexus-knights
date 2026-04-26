@@ -1,1 +1,2 @@
 # CodeNakshatra-the-nexus-knights
+DEKU - Your AI FriendThis is a simple AI agent powered by Mistral AI. It can chat with you and use basic tools like web search and checking your system stats.Files•agent.py: The main brain of the AI. Clean and simple.•app.py: The visual interface (GUI) using CustomTkinter.•.env.example: A template for your API keys.•requirements.txt: The list of libraries needed to run the app.How to setup1.Install the requirements:pip install -r requirements.txt2.Create a .env file from the example and add your Mistral API key.3.Run the app:python app.py
