@@ -1,0 +1,29 @@
+# Core AI and Agent Dependencies
+mistralai
+python-dotenv
+langchain-community
+langchain-core
+duckduckgo-search
+
+# GUI and System Dependencies
+customtkinter
+psutil
+pillow
+
+# god-level Features (Audio/Hacking/Data)
+numpy
+scipy
+sounddevice
+pyttsx3
+SpeechRecognition
+sentence-transformers
+scikit-learn
+rich
+pyautogui
+huggingface_hub
+qrcode
+matplotlib
+pandas
+openpyxl
+requests
+beautifulsoup4
